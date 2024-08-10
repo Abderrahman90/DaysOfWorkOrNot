@@ -1,0 +1,28 @@
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\bin\Debug\net6.0\DecomposeDayOfWeek.exe
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\bin\Debug\net6.0\DecomposeDayOfWeek.deps.json
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\bin\Debug\net6.0\DecomposeDayOfWeek.runtimeconfig.json
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\bin\Debug\net6.0\DecomposeDayOfWeek.dll
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\bin\Debug\net6.0\DecomposeDayOfWeek.pdb
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.AssemblyInfo.cs
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.dll
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\refint\DecomposeDayOfWeek.dll
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.pdb
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.genruntimeconfig.cache
+C:\Users\Abder\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\ref\DecomposeDayOfWeek.dll
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\bin\Debug\net6.0\DecomposeDayOfWeek.exe
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\bin\Debug\net6.0\DecomposeDayOfWeek.deps.json
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\bin\Debug\net6.0\DecomposeDayOfWeek.runtimeconfig.json
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\bin\Debug\net6.0\DecomposeDayOfWeek.dll
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\bin\Debug\net6.0\DecomposeDayOfWeek.pdb
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.AssemblyInfoInputs.cache
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.AssemblyInfo.cs
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.dll
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\refint\DecomposeDayOfWeek.dll
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.pdb
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\DecomposeDayOfWeek.genruntimeconfig.cache
+C:\Users\Master the Matrix\source\repos\DecomposeDayOfWeek\DecomposeDayOfWeek\obj\Debug\net6.0\ref\DecomposeDayOfWeek.dll

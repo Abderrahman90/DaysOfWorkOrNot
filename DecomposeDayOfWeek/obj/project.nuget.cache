@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NsVlc1V5J4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Master the Matrix\\source\\repos\\DecomposeDayOfWeek\\DecomposeDayOfWeek\\DecomposeDayOfWeek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Master the Matrix\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Master the Matrix\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Master the Matrix\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\Master the Matrix\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
